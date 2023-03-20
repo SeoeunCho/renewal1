@@ -9,8 +9,8 @@
 기획/디자인/코딩 : 개인작업100%
 작업기간 : 15일
 
-바로가기! ➡ https://westsilver24.github.io/renewal1/
+바로가기! ➡ https://seoeuncho.github.io/renewal1/
 
-모바일버전 : https://westsilver24.github.io/renewal1_mobile/ <br>
+모바일버전 : https://seoeuncho.github.io/renewal1_mobile/ <br>
 (반응형을 공부하기 전, 먼저 모바일에 익숙해지기 위해 모바일 버전으로만 만든 사이트입니다.<br>
 윈도우 창 너비를 최대한으로 줄여서 확인해주세요🙏)
