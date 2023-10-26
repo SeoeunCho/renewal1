@@ -1,5 +1,5 @@
 # renewal1
-![image](https://github.com/seolhee313/domino_site/assets/125417882/08cc520c-efb0-43b4-9503-b742408a9690)<br>
+![image](https://github.com/SeoeunCho/renewal1/blob/gh-pages/img/screenshot/gcimed_web01.png?raw=true)<br>
 
 💉'GC녹십자아이메드' 사이트를 리뉴얼했습니다.<br>
 : 처음으로 제작한 웹사이트라서 꽤 긴 시간을 들여서 작업했습니다. 우선 현 사이트는 남녀노소, 나이불문 다양한 사용자가 이용하기 때문에 전 국민이 편리하게 이용하는 국민건강보험공단 사이트의 디자인을 참고하여 개발했습니다.
@@ -22,7 +22,6 @@
 
 
 ## 사용 스택
-
 - HTML
 - CSS
 - jQuery
@@ -30,6 +29,9 @@
 
 
 ## Screenshots
-
-![image](https://github.com/seolhee313/domino_site/assets/125417882/1b5e3b3c-0527-4cf7-b30d-0074a86aa130)
-![image](https://github.com/seolhee313/domino_site/assets/125417882/475f55f1-fd2a-4acd-bc23-bed0df460357)
+![image](https://github.com/SeoeunCho/renewal1/blob/gh-pages/img/screenshot/gcimed_web02.png?raw=true)
+<div style="display: flex;">
+  <img src="https://raw.githubusercontent.com/SeoeunCho/renewal1_mobile/gh-pages/img/screenshot/gcimed_mobile01.png" alt="image" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/SeoeunCho/renewal1_mobile/gh-pages/img/screenshot/gcimed_mobile02.png" alt="image" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/SeoeunCho/renewal1_mobile/gh-pages/img/screenshot/gcimed_mobile03.png" alt="image" width="32%" height="auto">
+</div>
